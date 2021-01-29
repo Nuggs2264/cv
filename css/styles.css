@@ -1,0 +1,46 @@
+BODY {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 5.625rem;
+  margin-top: 50px;
+  font-family: 'Satisfy', cursive;
+}
+
+h2 {
+color: #66BFBF;
+  font-family: 'Lato', sans-serif;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Lato', sans-serif;
+}
+
+.con-ene-p {
+  color: #66BFBF;
+  font-family: 'Roboto', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
