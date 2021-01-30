@@ -1,0 +1,22 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "self learning web dev/my cv site ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nuggs2264/cv.git"
+  },
+  "author": "Casey Pearce",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nuggs2264/cv/issues"
+  },
+  "homepage": "https://github.com/Nuggs2264/cv#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
